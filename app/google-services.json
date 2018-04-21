@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910467639508",
+    "firebase_url": "https://juet2-626d0.firebaseio.com",
+    "project_id": "juet2-626d0",
+    "storage_bucket": "juet2-626d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910467639508:android:7f7fc919caff7b0a",
+        "android_client_info": {
+          "package_name": "com.niksharma.juet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910467639508-oqr4drms57tp0mge48i9l5oe5no44051.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niksharma.juet",
+            "certificate_hash": "5701c06b8f46fc94788021f5a0fee566987e7a4f"
+          }
+        },
+        {
+          "client_id": "910467639508-u85m9596b8lu3jppdaf03aj8j50n2eub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFvoW5b-vnUt0urHPA88IrSHZ_iyY5_6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910467639508-u85m9596b8lu3jppdaf03aj8j50n2eub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
